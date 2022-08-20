@@ -1,8 +1,14 @@
-Shortcuts
+# Shortcuts
+
+git clone https://github.com/kimdaehee5609/Shortcuts.git
+
+2022.07.20.수   등록
+
 
 단축키
 
-2022.07.23.토   등록
+git pull
+
 
 
 
